@@ -1,0 +1,95 @@
+
+*{
+    font-family: 'Montserrat', sans-serif;
+   margin: 7px;
+   padding: 0%;
+}
+
+
+
+
+.carrito {
+ position: relative;
+  top: 0px;
+ right: 120px;
+ line-height: -100px;
+
+}
+
+h1{
+    text-align: left;
+    margin-left: 150px;
+}
+
+
+img{
+    max-width: 100%;
+}
+.d-block {
+    max-width: 100%;
+}
+
+.imagen1 , .imagen2{
+    max-width: 20%;
+}
+.imagenNosotros {
+    max-width: 100%;
+   
+}
+
+
+input {
+    position: relative;
+    left: 900px;
+    top: -110px;
+}
+ 
+
+
+.logo{
+    display: flex;
+    position: relative;
+    top: 1px;
+    width: 100px;
+}
+
+p {
+    display: flex;
+    align-items:flex-start;
+    justify-content:left;
+    
+}
+
+  
+
+
+
+
+
+
+.finalizar {
+    background-color: darkred;
+    color: rgb(252, 212, 220);
+    position: relative;
+   left: 990px;
+    padding: 10px;
+    top: 0px;
+    font-size: large;
+}
+.codigo {
+    
+    top: -100px;
+    padding: 5px;
+    margin: 0px;
+    left: 1000px;
+}
+
+
+
+
+
+
+
+
+
+
