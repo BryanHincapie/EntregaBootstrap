@@ -50,8 +50,8 @@
     text-align: center;
 }
 .texto-encima{
-    color: rgb(243, 204, 152);
-    text-shadow: 1px 1px 1px rgb(94, 94, 86);
+    color: rgb(248, 224, 193);
+    text-shadow: 1px 1px 1px rgb(15, 15, 15);
     position: absolute;
     top: 35%;
     left: 50%;
@@ -59,8 +59,8 @@
 }
 .centrado{
    
-    color: azure;
-    text-shadow: 1px 1px 1px rgb(94, 94, 86);
+    color: rgb(230, 245, 245);
+    text-shadow: 1px 1px 1px rgb(2, 2, 2);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -114,7 +114,10 @@ p {
 }
 
 
-
+footer{
+    margin: 50px;
+    
+}
 
 
 
