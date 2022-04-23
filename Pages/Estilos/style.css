@@ -1,7 +1,7 @@
 
 *{
     font-family: 'Montserrat', sans-serif;
-   margin: 7px;
+   margin: 0px;
    padding: 0%;
 }
 
@@ -9,38 +9,67 @@
 
 
 .carrito {
- position: relative;
-  top: 0px;
- right: 120px;
- line-height: -100px;
+ margin: 30px;
 
+}
+.total{
+    margin: 30px;
 }
 
 .carousel-inner{
-    
-    max-width: 100%;
+   margin-top: 10px;
+   left: 30px;
+   width: 1300px;
+  
+   max-width: 100%;
+  
 
 }
 
-h1{
-    text-align: left;
-    margin-left: 150px;
-}
+
 
 
 .imagen1 , .imagen2{
     max-width: 20%;
 }
-.imagenNosotros {
-    max-width: 100%;
-   
+
+.articulo_1 , .articulo_2{
+    margin: 30px;
 }
 
 
+.imagenNosotros {
+    max-width: 100%;
+   margin-top: 5px;
+  margin-left: 30px;
+}
+
+.contenedorN{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto-encima{
+    color: rgb(243, 204, 152);
+    text-shadow: 1px 1px 1px rgb(94, 94, 86);
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.centrado{
+   
+    color: azure;
+    text-shadow: 1px 1px 1px rgb(94, 94, 86);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 input {
     position: relative;
     left: 900px;
-    top: -110px;
+    top: -70px;
 }
  
 
@@ -78,7 +107,7 @@ p {
     top: -100px;
     padding: 5px;
     margin: 0px;
-    left: 1000px;
+    left: 985px;
 }
 
 
