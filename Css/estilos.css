@@ -1,0 +1,136 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  margin: 0px;
+  padding: 0%;
+}
+
+.carrito {
+  margin: 30px;
+}
+
+.total {
+  margin: 30px;
+}
+
+.carousel-inner {
+  margin-top: 10px;
+  left: 30px;
+  width: 1300px;
+  max-width: 100%;
+}
+
+.imagen1, .imagen2 {
+  max-width: 20%;
+}
+
+.articulo_1, .articulo_2 {
+  margin: 30px;
+}
+
+.imagenNosotros {
+  max-width: 100%;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+.contenedorN {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.texto-encima {
+  color: #f8e0c1;
+  text-shadow: 1px 1px 1px #0f0f0f;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.centrado {
+  color: #e6f5f5;
+  text-shadow: 1px 1px 1px #020202;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+input {
+  position: relative;
+  left: 900px;
+  top: -70px;
+}
+
+.logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  top: 1px;
+  max-width: 100px;
+}
+
+p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  -webkit-box-pack: left;
+  -ms-flex-pack: left;
+  justify-content: left;
+}
+
+.card-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.card {
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 1s;
+  transition-duration: 1s;
+}
+
+.card:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.finalizar {
+  background-color: darkred;
+  color: #fcd4dc;
+  position: relative;
+  left: 990px;
+  padding: 10px;
+  top: 0px;
+  font-size: large;
+}
+
+.codigo {
+  top: -100px;
+  padding: 5px;
+  margin: 0px;
+  left: 985px;
+}
+
+footer {
+  margin: 50px;
+}
+
+/*# sourceMappingURL=estilos.css.map */
+
+/*# sourceMappingURL=estilos.css.map */

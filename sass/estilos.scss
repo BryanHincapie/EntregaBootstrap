@@ -1,0 +1,126 @@
+
+  *{
+    font-family: 'Montserrat', sans-serif;
+   margin: 0px;
+   padding: 0%;
+}
+
+
+.carrito {
+ margin: 30px;
+
+}
+.total{
+    margin: 30px;
+}
+
+.carousel-inner{
+   margin-top: 10px;
+   left: 30px;
+   width: 1300px;
+  
+   max-width: 100%;
+  
+}
+
+
+
+
+.imagen1 , .imagen2{
+    max-width: 20%;
+}
+
+.articulo_1 , .articulo_2{
+    margin: 30px;
+}
+
+
+.imagenNosotros {
+    max-width: 100%;
+   margin-top: 5px;
+  margin-left: 30px;
+}
+
+.contenedorN{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto-encima{
+    color: rgb(248, 224, 193);
+    text-shadow: 1px 1px 1px rgb(15, 15, 15);
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.centrado{
+   
+    color: rgb(230, 245, 245);
+    text-shadow: 1px 1px 1px rgb(2, 2, 2);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+input {
+    position: relative;
+    left: 900px;
+    top: -70px;
+}
+ 
+ 
+.logo{
+    display: flex;
+    position: relative;
+    top: 1px;
+    max-width: 100px;
+}
+
+p {
+    display: flex;
+    align-items:flex-start;
+    justify-content:left;   
+}
+.card-text{
+    display: flex;
+    align-items:flex-start;
+    justify-content:center; 
+}
+.card{
+    transition-property: all;
+    transition-duration: 1s;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+
+.finalizar {
+    background-color: darkred;
+    color: rgb(252, 212, 220);
+    position: relative;
+   left: 990px;
+    padding: 10px;
+    top: 0px;
+    font-size: large;
+}
+.codigo {
+    
+    top: -100px;
+    padding: 5px;
+    margin: 0px;
+    left: 985px;
+}
+
+
+footer{
+    margin: 50px;
+      
+}
+
+
+
+
+
+
+
