@@ -9,7 +9,13 @@ $font-family-sans-serif: 'Square Peg', cursive;
    margin: 0px;
    padding: 0%;
 }
+.d-block{
+    max-width: 100%;
+}
 
+div{
+    max-width: 100%;
+}
 
 .carrito {
  margin: 30px;
@@ -18,18 +24,6 @@ $font-family-sans-serif: 'Square Peg', cursive;
 .total{
     margin: 30px;
 }
-
-.carousel-inner{
-   margin-top: 10px;
-   left: 30px;
-   width: 1300px;
-  
-   max-width: 100%;
-  
-}
-
-
-
 
 .imagen1 , .imagen2{
     max-width: 20%;

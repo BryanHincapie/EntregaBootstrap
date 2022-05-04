@@ -6843,7 +6843,7 @@ fieldset:disabled .btn {
 
 .carousel-inner {
   position: relative;
-  width: 100%;
+  max-width: 100%;
   overflow: hidden;
 }
 
@@ -11961,6 +11961,14 @@ fieldset:disabled .btn {
   font-family: 'Montserrat', sans-serif;
   margin: 0px;
   padding: 0%;
+}
+
+.d-block {
+  max-width: 100%;
+}
+
+div {
+  max-width: 100%;
 }
 
 .carrito {
