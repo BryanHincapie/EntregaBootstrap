@@ -7,7 +7,7 @@ $font-family-sans-serif: 'Square Peg', cursive;
 *{
    font-family: 'Montserrat', sans-serif;
    margin: 0px;
-   padding: 0%;
+   padding: 0px;
 }
 .d-block{
     max-width: 100%;
@@ -33,7 +33,11 @@ div{
     margin: 30px;
 }
 
-
+.imgproducto {
+    max-width: 100%;
+    margin-top: 5px;
+   margin-left: 30px;
+}
 .imagenNosotros {
     max-width: 100%;
    margin-top: 5px;
